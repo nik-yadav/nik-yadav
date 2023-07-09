@@ -6,4 +6,4 @@
 
 **Connect with me**
 
-![hi](https://github.com/nik-yadav/nik-yadav/assets/132257962/6ecacdda-03db-42c0-8ea0-67d86d37ad36)
+![hi]([https://github.com/nik-yadav/nik-yadav/](https://www.hackerrank.com/nikhilyadavv?hr_r=1)https://www.hackerrank.com/nikhilyadavv?hr_r=1)
