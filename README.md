@@ -5,5 +5,5 @@
 - 📫 How to reach me: nikhil.yadav.a12@gmail.com
 
 **Connect with me**
-![image](https://github.com/nik-yadav/nik-yadav/assets/132257962/9b28c2f0-8aeb-4e47-93ed-6b358e778093)
 
+![hi](https://github.com/nik-yadav/nik-yadav/assets/132257962/6ecacdda-03db-42c0-8ea0-67d86d37ad36)
