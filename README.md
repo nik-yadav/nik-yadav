@@ -6,4 +6,4 @@
 
 **Connect with me**
 
-![hi]([https://github.com/nik-yadav/nik-yadav/](https://www.hackerrank.com/nikhilyadavv?hr_r=1)https://www.hackerrank.com/nikhilyadavv?hr_r=1)
+![hi](https://www.hackerrank.com/nikhilyadavv?hr_r=1)
