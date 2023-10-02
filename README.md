@@ -1,6 +1,6 @@
 **Hi there 👋!   I am NIKHIL YADAV**  
 
-     FRONTEND DEVELOPER
+     FULL STACK DEVELOPER
 
 - 📫 How to reach me: nikhil.yadav.a12@gmail.com
 
