@@ -1,6 +1,7 @@
 <div align="center">
 
-## Nikhil Yadav
+<h1 align="center">**Hi there 👋!   I am NIKHIL YADAV**
+</h1>
 
 **Full Stack Developer &nbsp;·&nbsp; Angular &nbsp;·&nbsp; React &nbsp;·&nbsp; Java**
 
